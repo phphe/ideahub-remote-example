@@ -16,9 +16,9 @@ version: "1"
 > - Images and links marked with `🔏` reference project files that are also included in the corresponding verification scope.
 >
 > Any other timestamps, images, or links in this file are outside the scope of the time proof.
-> - Time span: `2026-11-21 23:59:23 (UTC+08:00) → 2026-11-22 00:02:04 (UTC+08:00)`
-> - Proofs: 2
-> - Referenced files: 2
+> - Time span: `2026-11-21 23:59:23 (UTC+08:00) → 2026-11-22 00:18:46 (UTC+08:00)`
+> - Proofs: 3
+> - Referenced files: 3
 > - External links (unique): 0
 
 ---
@@ -37,3 +37,10 @@ A VS Code extension that records how ideas take shape locally and publishes the 
 
 🔏<img src="./logo.jpeg" width=150/>
 🔏<img src="./icon.svg" width=150/>
+
+## 🔏 `Proof: 2026-11-22 00:18:46 (UTC+08:00) [ideahub]`
+
+**Test link to project file**
+
+- 🔏[README-261122.md](./README-261122.md)
+- 🔏[logo.jpeg](./logo.jpeg)
